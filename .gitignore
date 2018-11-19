@@ -1,0 +1,11 @@
+node_modules
+bower_components
+dist
+*.swa
+*.swp
+*.swo
+
+coverage/
+
+.idea/
+.DS_Store
